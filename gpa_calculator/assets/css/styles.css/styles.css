@@ -1,0 +1,13 @@
+css
+body { font-family: Arial, Helvetica, sans-serif; background:#f4f6f8; color:#222; }
+.container { max-width:900px; margin:40px auto; background:#fff; padding:20px; box-shadow:0 2px 8px rgba(0,0,0,0.06); }
+.center { text-align:center; }
+input, select { padding:8px; width:100%; box-sizing:border-box; margin:8px 0; }
+button { padding:10px 16px; cursor:pointer; }
+.table { width:100%; border-collapse:collapse; margin-top:12px; }
+.table th, .table td { border:1px solid #e2e2e2; padding:8px; }
+.success { background:#e6ffed; border:1px solid #b6f0c5; padding:8px; }
+.error { background:#ffecec; border:1px solid #f5c6c6; padding:8px; }
+nav a { margin-right:8px; }
+.term { margin-bottom:20px; }
+.cgpa { font-size:1.2rem; margin-top:18px; }
